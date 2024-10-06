@@ -2,6 +2,12 @@
 
 This is a simple command-line Todo application written in Go. It allows you to manage a list of todos, including adding, deleting, editing, toggling, and listing todos. The app uses a file-based storage system to persist the todos.
 
+## Preview
+
+Here’s a preview of the Todo CLI app in action:
+
+![Todo CLI Preview](assets/cli.png)
+
 ## Features
 
 - Add a new todo.
